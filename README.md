@@ -38,13 +38,7 @@ A data analysis project that tracks global COVID-19 trends: cases, deaths, and v
   jupyter nbconvert --to pdf "Covid19_Global_Data_Tracker.ipynb"
   ```
 
-##  Submission Checklist
-- [ ] Repo is public on GitHub
-- [ ] `README.md` is complete
-- [ ] Notebook runs from start to finish without errors
-- [ ] All outputs and visuals are visible
-- [ ] Link submitted via your class portal
 
----
+
 
 © 2025 — COVID-19 Global Data Tracker
